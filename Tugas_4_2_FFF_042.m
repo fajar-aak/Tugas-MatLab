@@ -10,15 +10,15 @@ clear
 
 a = eye(5,5)
 
-% b. Matriks 3x3 dengan nilai elemen 1
-% b = ones(_)
-
-b = ones(3,3)
-
-% c. Matriks 4x4 dengan nilai elemen 0
+% c. Matriks 3x3 dengan nilai elemen 0
 % c = zeros(_)
 
-c = zeros(4,4)
+c = zeros(3,3)
+
+% b. Matriks 4x4 dengan nilai elemen 1
+% b = ones(_)
+
+b = ones(4,4)
 
 % d. Matriks 3x4 terdistribusi elemen 1 dan 0
 % d = rand(_)
