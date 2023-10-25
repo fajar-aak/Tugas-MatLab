@@ -139,6 +139,7 @@ z_B = diag(B)
 
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~%
 
+% Tambahan %
 % di bawah ini saya hanya menulis (mengetikan) 
 % tambahan penyelesaian dari soal p, q dan r
 % yang dimana hanya untuk matriks A saja,
