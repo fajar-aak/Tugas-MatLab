@@ -6,7 +6,7 @@ clc
 clear
 
 % a. Matriks identitas 5x5
-% a = eye(_)
+% a = eye(_) 
 
 a = eye(5,5)
 
